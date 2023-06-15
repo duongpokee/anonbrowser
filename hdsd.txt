@@ -1,0 +1,3 @@
+Thêm proxy vào file proxy.txt
+Thêm user agent vào file ua.txt
+Lựa chọn phiên bản chromedriver phù hợp với phiên bản Chrome bạn đang dùng
